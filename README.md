@@ -1,1 +1,1 @@
-import file web_hotel.db ke localhost
+import file web_hotel.sql ke localhost
